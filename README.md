@@ -57,6 +57,8 @@ Compare original and generated images.
 Document differences and improvements.
 
 Output:
+[EX07.doc](https://github.com/user-attachments/files/28537954/EX07.doc)
+
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
